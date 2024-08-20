@@ -29,11 +29,11 @@ export class CharacterRace extends HTMLElement {
           ),
           createOption(
             'halfling',
-            'When you Defy Danger and use your small size to your advantage, take +1'
+            'When you Defy Danger and use your small size to your advantage, take +1.'
           ),
           createOption(
             'human',
-            "Once per battle you may reroll a single damage roll (yours or someone else's"
+            "Once per battle you may reroll a single damage roll (yours or someone else's)."
           ),
         ]
       case supportedClasses.Ranger:
